@@ -22,4 +22,4 @@ npm run run
 ```
 
 6. Try out the web app
-Open `http://localhost:8080/` to try the web app!
+Open [localhost:8080](http://localhost:8080/) to try the web app!
