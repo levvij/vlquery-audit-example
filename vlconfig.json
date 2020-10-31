@@ -1,0 +1,24 @@
+{
+    "context": {
+        "outFile": "db/context.ts",
+        "connection": {
+            "user": "postgres",
+            "password": "postgres", 
+            "database": "test_project"
+		},
+		"runContext": true,
+		"audit": {
+			"entity": "audit",
+			"track": {
+				"timestamp": "timestamp",
+				"comment": "comment",
+				"action": "action",
+				"object": "object",
+				"entity": "entity",
+				"objectId": "id",
+				"username": ["currentUser", "username"]
+			},
+			"commentRequired": true
+		}
+    }
+}
