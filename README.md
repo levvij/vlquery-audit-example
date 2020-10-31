@@ -20,3 +20,6 @@ npx vlquery create-context
 npm run build
 npm run run
 ```
+
+6. Try out the web app
+Open `http://localhost:8080/` to try the web app!
