@@ -23,3 +23,9 @@ npm run run
 
 6. Try out the web app
 Open [localhost:8080](http://localhost:8080/) to try the web app!
+
+7. View the audit log
+Take a look at the audit log growing by using 
+```
+SELECT * FROM audit;
+```
