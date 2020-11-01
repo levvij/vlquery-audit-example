@@ -1,4 +1,4 @@
-# Example project for [vlquery](https://npmjs.com/vlquery)
+# Example project for [vlquery](https://npmjs.com/vlquery) with audits
 
 1. To get started, install all dependencies
 ```
